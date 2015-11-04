@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "canvas": "~1.1.1",
+    "canvas": "*",
     "get-image": "^1.0.0"
   },
   "devDependencies": {

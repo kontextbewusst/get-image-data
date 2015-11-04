@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "canvas": "*",
-    "get-image": "^1.0.0"
+    "get-image": "git+https://github.com/kontextbewusst/get-image.git"
   },
   "devDependencies": {
     "tape": "~2.1.0",
